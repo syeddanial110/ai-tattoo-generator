@@ -243,6 +243,9 @@ export default function TattooGenerator() {
           <div className="mt-8 text-center text-gray-400 text-sm">
             <p>Note: AI-generated designs are for inspiration only. Our artists will work with you to create a custom design.</p>
           </div>
+          <div className="mt-8 text-center text-gray-400 text-sm">
+            <p>Developed By Digital Vistech</p>
+          </div>
         </div>
       </main>
     </div>
